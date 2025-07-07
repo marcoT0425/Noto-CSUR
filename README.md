@@ -10,5 +10,7 @@ https://en.wikipedia.org/wiki/ConScript_Unicode_Registry
 
 Later, I will design [Noto Sans Klingon]. 
 
-<img width="345" alt="Screenshot 2025-07-07 at 21 15 44" src="https://github.com/user-attachments/assets/c9060370-2ba9-4441-aa4d-e8b079c59c69" />
-<img width="345" alt="Screenshot 2025-07-07 at 21 15 50" src="https://github.com/user-attachments/assets/af958d1a-97f1-45a5-be9a-9a0a4de7fd1c" />
+* Tengwar - https://www.unicode.org/wg2/docs/n1641.pdf
+* Cirth - https://www.unicode.org/wg2/docs/n1642.pdf
+* Unifon - https://www.evertype.com/standards/csur/unifon.html
+* Shidinn - https://wiki.xdi8.top/wiki/Shidinn_language
